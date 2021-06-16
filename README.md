@@ -23,8 +23,8 @@ Serverless구조이면 좋고, 멀티플레이어 게임이면 가산점이 있�
 # 코드 & 발표 자료
 
 ## Github
-게임 실행 코드 : https://github.com/SongDaeSun/junction-client  
-게임 툴킷 코드 : https://github.com/SongDaeSun/junction-toolkit
+게임 실행 코드 : https://github.com/Competitions-And-Hackathons/junction-client  
+게임 툴킷 코드 : https://github.com/Competitions-And-Hackathons/junction-toolkit
 
 ## 발표 자료 & 발표 영상
 발표 자료 다운로드 링크 : https://www.notion.so/AWS-GameTech-MooYaHo-e0a1d7719e5146349ab897e8af57b34d  
